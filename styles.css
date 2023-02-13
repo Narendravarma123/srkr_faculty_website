@@ -5,7 +5,7 @@
     color: black;
 }
 .navmar{
-    margin-right: 605px;
+    margin-right: 800px;
 }
 .aspsize{
     padding: 5% 6% 0 6%;
@@ -42,3 +42,25 @@
         margin-right: 80px;
     }
 }
+    <style>
+        img{
+            border-radius: 50%;
+        }
+.wrapper {
+width:100%;
+margin : 0;
+margin-left:15%;
+margin-top:100px;}
+
+.hodl { <! this is  first div tag in wrapper tag >
+width:50%;
+margin : 0;
+float : right;
+}
+
+.hod2 {   <!this is second div tag in wrapper tag this two div tags are under wrapper class>
+width:50%;
+margin : 0;
+float : left ;
+}
+
